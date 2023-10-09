@@ -1,6 +1,5 @@
 package jogo;
-import java.lang.Math
-;
+import java.lang.Math;
 
 public class Armadura {
     private int capacete;
